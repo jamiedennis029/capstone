@@ -1,7 +1,7 @@
 body {
-  color: rgb(216, 91, 132);
+  color: rgb(250, 250, 210);
   background-color: beige;
-  font-family: "Playwrite GB J", cursive, Arial;
+  font-family: "sans-serif", cursive, Arial;
 }
 
 /* hexcode example, found online */
@@ -15,12 +15,12 @@ footer {
 
 /* RGB example, found online */
 section {
-  background-color: rgb(116, 137, 53);
+  background-color: beige;
 }
 
 /* Styles for my contact page */
 .contact-header {
-  background-color: orange;
+  background-color: pink;
 }
 
 .contact-nav {
