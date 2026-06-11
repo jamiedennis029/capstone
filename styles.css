@@ -6,21 +6,21 @@ body {
 
 /* hexcode example, found online */
 header {
-  background-color: beige;
+  background-color: khaki;
 }
 
 footer {
-  background-color: pink;
+  background-color: khaki;
 }
 
 /* RGB example, found online */
 section {
-  background-color: beige;
+  background-color: khaki;
 }
 
 /* Styles for my contact page */
 .contact-header {
-  background-color: pink;
+  background-color: khaki;
 }
 
 .contact-nav {
