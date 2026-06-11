@@ -1,12 +1,12 @@
 body {
   color: rgb(250, 250, 210);
   background-color: pink;
-  font-family: "sans-serif", cursive, Arial;
+  font-family: sans-serif;
 }
 
 /* hexcode example, found online */
 header {
-  background-color: #be43498b;
+  background-color: pink;
 }
 
 footer {
