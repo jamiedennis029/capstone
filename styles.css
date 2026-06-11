@@ -17,7 +17,7 @@ header {
 h1 {
   font-size: 28px;
   color: rgb(12, 25, 202);
-  color: darksalmon;
+  color: black;
   text-align: center;
   text-decoration: underline;
 }
@@ -81,8 +81,4 @@ footer a {
 
 li {
   text-decoration: underline;
-}
-
-ol li {
-  text-decoration: line-through;
 }
