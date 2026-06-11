@@ -1,12 +1,33 @@
+/* website styles */
+* {
+  /* font-family: "Sans-Serif", cursive, Arial; */
+  font-size: 14px;
+}
 body {
   color: pink;
   background-color: pink;
   font-family: sans-serif;
 }
 
-/* hexcode example, found online */
+/* hexcode example found online */
 header {
   background-color: khaki;
+}
+
+h1 {
+  font-size: 28px;
+  color: rgb(12, 25, 202);
+  color: darksalmon;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+p {
+  font-style: normal;
 }
 
 footer {
@@ -25,4 +46,43 @@ section {
 
 .contact-nav {
   background-color: pink;
+}
+
+/* Styles for my contact page */
+.contact-header {
+  background-color: pink;
+}
+
+.contact-nav {
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: green;
+}
+
+a:active {
+  color: black;
+}
+
+/* parent child(the child is what we are selecting) */
+
+footer a {
+  font-size: 1.5rem;
+}
+
+li {
+  text-decoration: underline;
+}
+
+ol li {
+  text-decoration: line-through;
 }
